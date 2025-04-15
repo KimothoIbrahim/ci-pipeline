@@ -1,4 +1,4 @@
-coverage==7.2.7
+coverage
 exceptiongroup==1.2.2
 flake8
 iniconfig==2.1.0
