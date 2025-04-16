@@ -15,6 +15,6 @@ def age(age: int):
 
 
 def shout(name: str):
-    """Shout an name
+    """Shout a name
     """
     return f'I am screaming out my name {name}'
