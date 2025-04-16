@@ -10,7 +10,6 @@ class TestTalk:
         """
         assert app.talk('Ibrahim') == 'My name is Ibrahim'
 
-
     def test_shout(self):
         """Shout your name
         """
