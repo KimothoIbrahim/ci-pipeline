@@ -14,3 +14,8 @@ class TestTalk:
         """Shout your name
         """
         assert app.shout('Ibrahim') == 'I am screaming out my name Ibrahim'
+
+    def test_age(self):
+        """Test age function
+        """
+        assert app.age('Ibrahim') == 'My age is Ibrahim'
